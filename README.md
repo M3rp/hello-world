@@ -1,2 +1,3 @@
 # hello-world
-Tutorial Repository
+
+I'm Griffen and I eat ass.
